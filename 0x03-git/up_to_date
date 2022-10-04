@@ -1,0 +1,5 @@
+#!/bin/bash
+# command used to create a new file
+touch up_to_date
+# command used to keep you up-to-date in collaborative work
+git pull
